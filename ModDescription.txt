@@ -1,0 +1,1 @@
+1. Every Warlord gets a commander at the start of a game. 2. If your commander is defeated, the owner wont be eliminated. 3. If your territory is not connected using territories under your control with a territory with a commander at the end of a turn, it will be neutral in the next turn
